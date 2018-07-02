@@ -64,7 +64,7 @@ hr.light:after {
     background-color:#18bc9c;
 }
 section {
-    padding: 7.54% 0;
+    padding: 7.51% 0 7.51% 1%;
 }
 .container {
     max-width: 1140px;
@@ -153,8 +153,8 @@ nav ul li a:hover {
    justify-content: space-around;
 }
 .grid-portfolio .grid-item {
-    flex: 0 0 30.333333%;
-    max-width: 30.333333%;
+    flex: 0 0 31%;
+    max-width: 31%;
     margin: 1%;
 }
 .grid-item img {
